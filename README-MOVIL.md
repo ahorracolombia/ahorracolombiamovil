@@ -71,3 +71,7 @@ Que sea una app móvil **no hace que los precios sean automáticamente más real
 ## Validación
 
 Este paquete es código fuente listo para desplegar/probar. No incluye APK/AAB firmado ni archivo IPA: esos artefactos requieren SDK/firmas y, para iOS, Xcode/macOS. No se ha probado aún contra una compra real de cada supermercado.
+
+## APK Android con GitHub Actions
+
+Consulta `README-APK-ANDROID.md`. El flujo `.github/workflows/build-android-apk.yml` compila un APK debug y lo publica como artefacto descargable en GitHub Actions. Configura la variable de repositorio `AHORRA_API_BASE_URL` con la URL HTTPS real de la API antes de instalarlo en el teléfono.

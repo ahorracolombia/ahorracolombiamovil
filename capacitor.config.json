@@ -1,11 +1,21 @@
 {
   "appId": "co.ahorracolombia.app",
   "appName": "Ahorrá Colombia",
-  "webDir": ".",
+  "webDir": "www",
   "bundledWebRuntime": false,
-  "server": { "androidScheme": "https", "cleartext": false },
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
   "plugins": {
-    "StatusBar": { "style": "DARK", "backgroundColor": "#ffffff" },
-    "SplashScreen": { "launchShowDuration": 1500, "backgroundColor": "#087443", "showSpinner": false }
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#ffffff"
+    },
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#087443",
+      "showSpinner": false
+    }
   }
 }

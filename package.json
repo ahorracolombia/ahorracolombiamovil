@@ -3,12 +3,16 @@
   "version": "1.1.0",
   "private": true,
   "description": "Aplicación móvil/PWA de Ahorrá Colombia con comparativa y catálogo existente.",
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "start": "npx serve .",
     "cap:sync": "npx cap sync",
     "android": "npx cap open android",
-    "ios": "npx cap open ios"
+    "ios": "npx cap open ios",
+    "prepare:www": "node scripts/prepare-www.js",
+    "android:apk": "npm run prepare:www && npx cap sync android && cd android && ./gradlew assembleDebug"
   },
   "dependencies": {
     "@capacitor/android": "^7.4.3",
@@ -17,5 +21,7 @@
     "@capacitor/splash-screen": "^7.0.2",
     "@capacitor/status-bar": "^7.0.2"
   },
-  "devDependencies": { "@capacitor/cli": "^7.4.3" }
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
 }
