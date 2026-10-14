@@ -1,0 +1,202 @@
+﻿id,producto,presentacion,seleccionada,D1,Ara,Barrio,Éxito,Olímpica,Caribe,Euro,Vaquita,Jumbo,estado
+p1,Aceite de Girasol / Soya,Botella 500 ml,no,4900,5100,5300,5700,5900,5200,5400,5300,5800,Estimación orientativa; verificar en tienda
+p1,Aceite de Girasol / Soya,Botella 900 ml,sí,6950,7200,7900,8500,8900,7600,8200,7700,9000,D1: producto de aceite vegetal de 900 ml; estimación de categoría
+p2,Aceite de Oliva Extra Virgen,Frasco 250 ml,no,5600,13500,14200,15500,14900,13900,14000,13800,15200,Estimación orientativa; verificar en tienda
+p2,Aceite de Oliva Extra Virgen,Frasco 500 ml,sí,9900,24200,25500,28000,26900,24900,25000,24500,27500,Estimación orientativa; verificar en tienda
+p3,Aguacate Hass,Kilo,sí,10200,10600,9900,12500,11900,10900,10500,10100,12200,Estimación orientativa; verificar en tienda
+p3,Aguacate Hass,Unidad suelta,no,2500,2700,2600,3200,3000,2800,2700,2650,3100,Estimación orientativa; verificar en tienda
+p4,Agua en Botella,Botella 1.5L,sí,2200,2300,2600,3000,2900,2500,2400,2300,2900,Estimación orientativa; verificar en tienda
+p5,Ajo en Polvo Condimento,Frasco 100g,sí,3300,3600,3900,4400,4200,3700,3800,3750,4300,Estimación orientativa; verificar en tienda
+p6,Alitas de Pollo,Bandeja 500 g,sí,7700,8000,8500,9400,9100,8300,8400,8200,9200,Estimación orientativa; verificar en tienda
+p7,Ambientador en Aerosol,Aerosol 250ml,sí,8500,9000,9600,10700,10300,9300,9500,9200,10500,Estimación orientativa; verificar en tienda
+p8,Arepas de Maíz,Paquete x5,sí,1990,3800,4000,4500,4300,3900,4000,3900,4400,D1: precio informado por usuario y coincidencia pública de producto
+p8,Arepas de Maíz,Paquete x10,no,3990,4500,4800,5300,5100,4600,4800,4650,5200,Estimación orientativa; verificar en tienda
+p9,Arroz blanco (presentaciones colombianas),Bolsa 500 g (1 libra),sí,1990,2150,2300,2450,2400,2250,2200,2175,2400,D1: página de producto
+p9,Arroz blanco (presentaciones colombianas),Bolsa 1 kg,no,3790,4000,4300,4500,4400,4100,4200,4100,4500,Estimación orientativa; verificar en tienda
+p9,Arroz blanco (presentaciones colombianas),Bolsa 2.5 kg,no,9750,10450,11000,11750,11450,10750,10900,10600,11500,D1: catálogo de despensa
+p9,Arroz blanco (presentaciones colombianas),Bolsa 5 kg,no,19500,20900,22000,23500,22900,21500,21800,21200,23000,Estimación orientativa; verificar en tienda
+p9,Arroz blanco (presentaciones colombianas),Arroba 25 libras (12.5 kg aprox.),no,48750,52250,55000,58750,57250,53750,54500,53000,57500,Estimación orientativa; verificar en tienda
+p10,Arveja Seca,Bolsa 500 g (1 libra),sí,2100,3600,3800,4100,4000,3700,3800,3750,4000,Estimación orientativa; verificar en tienda
+p10,Arveja Seca,Bolsa 1 kg,no,4200,7200,7600,8200,8000,7400,7600,7500,8000,Estimación orientativa; verificar en tienda
+p10,Arveja Seca,Bolsa 2.5 kg,no,10500,18000,19000,20500,20000,18500,19000,18750,20000,Estimación orientativa; verificar en tienda
+p11,Atún en Lata,Lata 160g,sí,4450,6100,6400,6800,6600,6200,6300,6200,6700,Estimación orientativa; verificar en tienda
+p11,Atún en Lata,Pack x3 latas,no,13200,17500,18900,19900,19400,17800,18000,17600,19500,Estimación orientativa; verificar en tienda
+p12,Avena en Hojuelas,Bolsa 250g,sí,3200,3300,3500,3900,3800,3400,3500,3450,3800,Estimación orientativa; verificar en tienda
+p12,Avena en Hojuelas,Bolsa 500g,no,5400,5900,6300,6900,6700,6000,6200,6100,6800,Estimación orientativa; verificar en tienda
+p13,Azúcar Blanca,Bolsa 500 g (1 libra),no,1695,1800,1900,2100,2000,1850,1900,1850,2050,Estimación orientativa; verificar en tienda
+p13,Azúcar Blanca,Bolsa 1 kg,sí,3300,3500,3700,3950,3900,3600,3700,3650,3900,D1: catálogo de despensa
+p13,Azúcar Blanca,Bolsa 2.5 kg,no,8250,8750,9250,9900,9750,9000,9250,9125,9750,Estimación orientativa; verificar en tienda
+p13,Azúcar Blanca,Bolsa 5 kg,no,16500,17500,18500,19750,19500,18000,18500,18250,19500,Estimación orientativa; verificar en tienda
+p14,Banano,Kilo,sí,2900,3000,3100,3600,3500,3200,3300,3100,3500,Estimación orientativa; verificar en tienda
+p14,Banano,Unidad suelta,no,400,450,500,600,550,500,520,480,580,Estimación orientativa; verificar en tienda
+p15,Barra de Cereal,Unidad,sí,2200,2400,2600,3000,2800,2500,2600,2500,2900,Estimación orientativa; verificar en tienda
+p16,Bebida Energizante,Lata,sí,5900,6200,6700,7400,7100,6400,6600,6500,7200,Estimación orientativa; verificar en tienda
+p17,Bocadillo,Bloque 470g,sí,3200,3700,4000,4400,4200,3600,3800,3700,4300,Estimación orientativa; verificar en tienda
+p18,Bloqueador Solar,Tubo estándar,sí,15900,16500,17900,20500,19500,17200,17800,17400,19900,Estimación orientativa; verificar en tienda
+p19,Bolsas de Basura,Rollo x30,sí,4300,4500,4800,5400,5200,4700,4800,4750,5300,Estimación orientativa; verificar en tienda
+p20,Café Molido,Paquete 250 g,sí,9500,8200,8900,9800,9500,8800,9000,8700,9600,Estimación orientativa; verificar en tienda
+p20,Café Molido,Paquete 500 g,no,19000,17200,18100,19500,18900,17500,17900,17300,19200,Estimación orientativa; verificar en tienda
+p21,Caldo de Gallina,Caja x6,sí,4100,4400,4700,5300,5100,4500,4700,4600,5200,Estimación orientativa; verificar en tienda
+p21,Caldo de Gallina,Unidad de caldo,no,700,800,900,1000,950,850,880,850,980,Estimación orientativa; verificar en tienda
+p22,Carne de Res Molida,Bandeja 500 g,sí,9800,10200,10600,11800,11400,10300,10800,10500,11600,Estimación orientativa; verificar en tienda
+p22,Carne de Res Molida,Kilo,no,19000,19900,21000,23000,22000,20000,21200,20500,22500,Estimación orientativa; verificar en tienda
+p23,Carne de Cerdo Chuleta,Bandeja 500g,sí,11000,11600,12400,13500,13000,11700,12200,11900,13200,Estimación orientativa; verificar en tienda
+p24,Cebolla Cabezona,Kilo,sí,4100,4300,4200,5300,5000,4600,4500,4300,5100,Estimación orientativa; verificar en tienda
+p25,Cereal,Caja 250g,sí,6600,6900,7300,8100,7800,7000,7300,7100,7900,Estimación orientativa; verificar en tienda
+p26,Cerveza,Pack x6,sí,18200,18900,20200,22500,21800,19600,20500,19800,22000,Estimación orientativa; verificar en tienda
+p26,Cerveza,Unidad,no,3100,3200,3500,3800,3700,3300,3450,3350,3750,Estimación orientativa; verificar en tienda
+p27,Chocolate de Mesa Tradicional,Pastilla / Bloque 500 g,sí,10650,7900,8300,8800,8600,8200,8400,8150,8700,Estimación orientativa; verificar en tienda
+p27,Chocolate de Mesa Tradicional,Chocolate Splenda 100g,no,7990,8200,8500,9200,8900,8100,8300,8200,9000,Estimación orientativa; verificar en tienda
+p28,Chocolatina,Unidad,sí,1500,1600,1800,2100,2000,1700,1850,1750,2050,Estimación orientativa; verificar en tienda
+p29,Chorizo,Paquete x5,sí,9100,9400,9800,11000,10600,9600,10100,9750,10800,Estimación orientativa; verificar en tienda
+p30,Cilantro,Manojo,sí,1500,1600,1400,2100,2000,1700,1800,1550,2000,Estimación orientativa; verificar en tienda
+p31,Cocada Tradicional,Paquete 240g,sí,5100,5400,5800,6300,6100,5400,5700,5500,6200,Estimación orientativa; verificar en tienda
+p32,Costilla de Cerdo,Bandeja 500 g,sí,10100,10400,10900,12100,11700,10500,11200,10800,11900,Estimación orientativa; verificar en tienda
+p33,Crema Corporal,Frasco 250 ml,sí,10100,10500,11300,12900,12400,11100,11500,11200,12600,Estimación orientativa; verificar en tienda
+p34,Crema Dental,Tubo 100 ml,sí,5700,6000,6400,7200,6900,6300,6600,6350,7000,Estimación orientativa; verificar en tienda
+p35,Crema de Leche,Frasco 200ml,sí,3900,4000,4300,4900,4700,4100,4400,4200,4800,Estimación orientativa; verificar en tienda
+p36,Curitas Adhesivas,Caja x20,sí,4100,4400,4800,5400,5200,4500,4800,4600,5300,Estimación orientativa; verificar en tienda
+p37,Desodorante,Aerosol estándar,sí,11500,11900,12800,13900,13400,12300,12900,12500,13700,Estimación orientativa; verificar en tienda
+p38,Detergente en Polvo,Bolsa 1000 g,sí,9100,9400,10100,11100,10800,9800,10300,9950,10900,Estimación orientativa; verificar en tienda
+p38,Detergente en Polvo,Bolsa 3000 g,no,24900,26500,28500,31000,29900,27200,28100,27500,30500,Estimación orientativa; verificar en tienda
+p39,Enjuague Bucal,Frasco 500 ml,sí,13500,14100,14900,16500,15900,14400,15100,14700,16200,Estimación orientativa; verificar en tienda
+p40,Esponjas de Cocina,Pack x3,sí,3300,3600,3800,4300,4100,3500,3850,3650,4200,Estimación orientativa; verificar en tienda
+p40,Esponjas de Cocina,Unidad,no,1200,1300,1400,1600,1500,1350,1450,1380,1550,Estimación orientativa; verificar en tienda
+p41,Limpiador Multiusos,Frasco 1000 ml,sí,6600,6900,7400,8100,7800,7100,7450,7200,7950,Estimación orientativa; verificar en tienda
+p42,Filete de Tilapia,Bandeja 500 g,sí,12800,13300,14100,15900,15400,13800,14400,13900,15600,Estimación orientativa; verificar en tienda
+p43,Fresa Fresca,Bandeja 250g,sí,5200,5600,5800,6900,6500,5700,6000,5750,6700,Estimación orientativa; verificar en tienda
+p44,Frijol Cargamanto,Bolsa 500 g (1 libra),sí,4100,6200,6600,7400,7100,6700,6800,6500,7200,Estimación orientativa; verificar en tienda
+p44,Frijol Cargamanto,Bolsa 1 kg,no,8000,12000,12800,14200,13800,13000,13400,12900,13900,Estimación orientativa; verificar en tienda
+p44,Frijol Cargamanto,Bolsa 2.5 kg,no,20000,30000,32000,35500,34500,32500,33500,32250,34750,Estimación orientativa; verificar en tienda
+p45,Galletas,Bloque tradicional,sí,5400,5600,6000,6600,6400,5800,6100,5900,6500,Estimación orientativa; verificar en tienda
+p46,Galletas Dulces Rellenas,Paquete,sí,2700,2900,3200,3600,3400,3000,3200,3100,3500,Estimación orientativa; verificar en tienda
+p47,Galletas de Soda,Bloque tradicional,sí,4900,5200,5600,6100,5900,5400,5650,5450,6000,Estimación orientativa; verificar en tienda
+p48,Garbanzo Seco,Bolsa 500 g,sí,3900,4000,4300,4800,4600,4100,4400,4200,4700,Estimación orientativa; verificar en tienda
+p49,Gaseosa,Litro y medio (1.5L),sí,5700,5900,6400,7200,6900,6100,6500,6300,7000,Estimación orientativa; verificar en tienda
+p49,Gaseosa,Botella 3 Litros,no,9500,9900,10500,11800,11200,10200,10700,10400,11500,Estimación orientativa; verificar en tienda
+p50,Gelatina en Polvo,Caja,sí,1800,1900,2100,2500,2400,2000,2150,2050,2400,Estimación orientativa; verificar en tienda
+p51,Gomas de Mascar / Dulces,Bolsa,sí,3900,4100,4500,5000,4800,4300,4600,4450,4900,Estimación orientativa; verificar en tienda
+p52,Guantes de Caucho,Par,sí,3600,3800,4100,4800,4600,3900,4200,4050,4700,Estimación orientativa; verificar en tienda
+p53,Hamburguesas de Res Listas,Pack x4,sí,12500,13100,13800,15500,14800,13400,14100,13600,15200,Estimación orientativa; verificar en tienda
+p54,Helado Familiar,Pote 1 Litro,sí,11500,12100,13000,14500,13900,12400,13200,12700,14200,Estimación orientativa; verificar en tienda
+p55,Hierbabuena / Limoncillo,Manojo,sí,1400,1500,1300,2000,1900,1600,1750,1450,1950,Estimación orientativa; verificar en tienda
+p56,Huevos,Unidades sueltas (Precio x Huevo),sí,500,420,600,650,630,580,590,560,640,Estimación orientativa; verificar en tienda
+p56,Huevos,Media docena x6,no,3000,2500,3600,3900,3800,3500,3550,3350,3850,Estimación orientativa; verificar en tienda
+p56,Huevos,Cartón x30,no,14990,10950,17800,19500,18900,17200,17500,16800,19200,D1: categoría lácteos y huevos
+p57,Jamón Tajado,Bloque 250g,sí,7500,7900,8500,9400,9100,8200,8650,8300,9250,Estimación orientativa; verificar en tienda
+p57,Jamón Tajado,Bloque 500g,no,14200,14900,16000,17900,17200,15500,16200,15800,17500,Estimación orientativa; verificar en tienda
+p58,Jugo en Caja,Caja 1 Litro,sí,4100,4300,4600,5200,5000,4400,4700,4500,5100,Estimación orientativa; verificar en tienda
+p59,Leche,Bolsa 900 ml,sí,3090,3200,3500,3900,3750,3350,3500,3300,3850,D1: página de producto
+p59,Leche,Caja Tetrapak 900 ml,no,3550,3700,3950,4350,4200,3800,4050,3850,4300,D1: catálogo de lácteos
+p60,Limón Tahití,Kilo,sí,3500,4200,3900,5200,4900,4300,4450,4150,5100,D1: catálogo de frutas y verduras
+p60,Limón Tahití,Unidad suelta,no,300,350,400,500,480,420,440,390,490,Estimación orientativa; verificar en tienda
+p61,Limpiador de Pisos,Frasco 500ml,sí,3900,4100,4400,5000,4800,4200,4500,4300,4900,Estimación orientativa; verificar en tienda
+p61,Limpiador de Pisos,Frasco 1000ml,no,7200,7600,8200,9200,8800,7900,8350,8000,9000,Estimación orientativa; verificar en tienda
+p62,Lechuga Crespa,Unidad,sí,2600,2800,2700,3400,3200,2900,3000,2850,3300,Estimación orientativa; verificar en tienda
+p63,Maíz Pira (Crispetas),Bolsa 500g,sí,3300,3500,3800,4300,4100,3600,3900,3700,4200,Estimación orientativa; verificar en tienda
+p64,Mango Tommy,Kilo,sí,4400,4700,4500,5700,5400,4800,5000,4650,5600,Estimación orientativa; verificar en tienda
+p64,Mango Tommy,Unidad suelta,no,1200,1300,1250,1600,1500,1350,1450,1300,1580,Estimación orientativa; verificar en tienda
+p65,Margarina,Bloque 500g,sí,7100,7400,7900,8600,8300,7600,7950,7650,8500,Estimación orientativa; verificar en tienda
+p65,Margarina,Bloque 250g,no,3800,4000,4300,4800,4600,4100,4350,4150,4700,Estimación orientativa; verificar en tienda
+p66,Masa para Hojaldre,Lámina 500g,sí,6200,6500,7100,7900,7600,6700,7200,6900,7750,Estimación orientativa; verificar en tienda
+p67,Melón,Kilo,sí,3700,4000,3800,4900,4700,4100,4400,3950,4800,Estimación orientativa; verificar en tienda
+p68,Miel de Abejas,Frasco 350g,sí,10500,11100,11800,13500,13000,11500,12200,11700,13200,Estimación orientativa; verificar en tienda
+p69,Miga de Pan,Bolsa 500g,sí,3600,3800,4100,4600,4400,3900,4200,3950,4500,Estimación orientativa; verificar en tienda
+p70,Bebida en Polvo Chocolate,Frasco 400g,sí,16500,17200,18500,20200,19600,17800,18600,17900,19900,Estimación orientativa; verificar en tienda
+p71,Maní con Sal,Bolsa 150g,sí,4100,4300,4700,5300,5100,4500,4800,4600,5200,Estimación orientativa; verificar en tienda
+p72,Mermelada,Frasco 200g,sí,4400,4700,5100,5900,5600,4900,5300,5000,5800,Estimación orientativa; verificar en tienda
+p73,Naranja Valencia,Kilo,sí,3400,3600,3300,4400,4200,3700,3950,3550,4300,Estimación orientativa; verificar en tienda
+p73,Naranja Valencia,Unidad suelta,no,500,550,500,700,650,580,610,540,680,Estimación orientativa; verificar en tienda
+p74,Crema de Leche / Nata,Pote 200g,sí,3800,4000,4300,4900,4700,4100,4400,4200,4800,Estimación orientativa; verificar en tienda
+p75,Papa Pastusa,Bolsa 2.5 Kilos,sí,8300,8700,8000,10400,9900,8900,9400,8600,10200,Estimación orientativa; verificar en tienda
+p75,Papa Pastusa,Kilo individual,no,3500,3700,3400,4500,4300,3800,4000,3650,4400,Estimación orientativa; verificar en tienda
+p76,Papas Fritas Paquete,Paquete familiar,sí,7200,7500,8200,9000,8700,7900,8350,8050,8900,Estimación orientativa; verificar en tienda
+p76,Papas Fritas Paquete,Paquete personal,no,2500,2700,3000,3400,3200,2800,3050,2900,3350,Estimación orientativa; verificar en tienda
+p77,Pasta (Espagueti),Bolsa 500 g,sí,3990,3500,3800,4200,4000,3600,3900,3700,4100,D1: catálogo de despensa
+p77,Pasta (Espagueti),Bolsa 1 kg,no,5800,6200,6800,7500,7200,6400,6900,6650,7400,Estimación orientativa; verificar en tienda
+p78,Pera Importada,Kilo,sí,9400,9900,9600,11800,11400,10200,10900,10100,11600,Estimación orientativa; verificar en tienda
+p78,Pera Importada,Unidad suelta,no,1900,2000,1950,2400,2300,2100,2200,2050,2350,Estimación orientativa; verificar en tienda
+p79,Máquina de Afeitar,Pack x2,sí,6200,6500,7100,8100,7700,6700,7300,7000,7950,Estimación orientativa; verificar en tienda
+p79,Máquina de Afeitar,Unidad suelta,no,3400,3600,3900,4400,4200,3700,4000,3800,4350,Estimación orientativa; verificar en tienda
+p80,Piña Perolera,Unidad,sí,4500,4800,4300,5900,5600,5000,5350,4700,5800,Estimación orientativa; verificar en tienda
+p81,Papel Higiénico,Paquete x12,sí,14500,15100,16300,18200,17500,15500,16600,15900,17950,Estimación orientativa; verificar en tienda
+p81,Papel Higiénico,Paquete x4,no,5200,5500,6000,6800,6500,5700,6150,5900,6700,Estimación orientativa; verificar en tienda
+p82,Pechuga de Pollo,Kilo,sí,12000,12500,13300,14800,14300,12700,13600,13100,14600,Estimación orientativa; verificar en tienda
+p82,Pechuga de Pollo,Bandeja 500g,no,6300,6600,7000,7800,7500,6700,7200,6900,7700,Estimación orientativa; verificar en tienda
+p83,Quesito Antioqueño,Bloque 500 g,sí,9300,9700,10300,11600,11200,9900,10600,10100,11400,Estimación orientativa; verificar en tienda
+p83,Quesito Antioqueño,Bloque 250 g,no,4900,5100,5500,6200,5900,5200,5650,5400,6100,Estimación orientativa; verificar en tienda
+p84,Queso Mozzarella Tajado,Bloque 250g,sí,8300,8800,9300,10400,9900,9000,9600,9200,10250,Estimación orientativa; verificar en tienda
+p85,Quinua en Grano,Bolsa 250g,sí,5800,6100,6500,7500,7100,6200,6750,6400,7350,Estimación orientativa; verificar en tienda
+p86,Sal Refinada,Bolsa 1 kg,sí,2900,3000,3200,3400,3300,3000,3200,3000,3400,D1: catálogo de despensa
+p87,Salsa de Tomate Zev,Frasco 500g,sí,4200,4800,5100,5800,5500,4900,5200,4850,5600,Estimación orientativa; verificar en tienda
+p87,Salsa de Tomate Zev,Doypack 200g,no,2300,2600,2900,3200,3100,2700,2950,2800,3150,Estimación orientativa; verificar en tienda
+p88,Salchicha,Paquete x6,sí,6300,6600,7000,7900,7600,6700,7250,6900,7750,Estimación orientativa; verificar en tienda
+p88,Salchicha,Paquete x12,no,11500,12100,12900,14500,13900,12300,13350,12750,14300,Estimación orientativa; verificar en tienda
+p89,Sémola de Maíz,Bolsa 500g,sí,2900,3100,3400,3900,3700,3200,3550,3300,3800,Estimación orientativa; verificar en tienda
+p90,Sopa Instantánea,Sobre,sí,2600,2800,3100,3600,3400,2900,3200,3000,3550,Estimación orientativa; verificar en tienda
+p91,Tomate Chonto,Kilo,sí,4990,5300,4800,6200,5900,5200,5500,5000,6100,D1: catálogo de frutas y verduras
+p91,Tomate Chonto,Unidad suelta,no,500,550,450,700,650,580,610,520,680,Estimación orientativa; verificar en tienda
+p92,Té en Botella,Botella 400ml,sí,4400,4700,5100,5700,5500,4900,5300,5000,5600,Estimación orientativa; verificar en tienda
+p93,Toallas Húmedas,Paquete x80,sí,8300,8700,9500,10700,10300,9000,9800,9300,10500,Estimación orientativa; verificar en tienda
+p94,Toallas Higiénicas,Paquete x10,sí,5500,5800,6300,7200,6900,6100,6650,6300,7100,Estimación orientativa; verificar en tienda
+p95,Trigo en Grano,Bolsa 500g,sí,3300,3500,3800,4300,4100,3600,3950,3700,4250,Estimación orientativa; verificar en tienda
+p96,Tocineta Ahumada,Paquete 150g,sí,6900,7200,7600,8500,8200,7400,7900,7550,8400,Estimación orientativa; verificar en tienda
+p96,Tocineta Ahumada,Paquete 200g,no,9300,9700,10200,11400,10900,9900,10600,10100,11200,Estimación orientativa; verificar en tienda
+p97,Zanahoria Fresca,Kilo,sí,3100,3300,3000,4000,3800,3400,3650,3250,3950,Estimación orientativa; verificar en tienda
+p97,Zanahoria Fresca,Unidad suelta,no,400,450,400,550,500,450,480,420,540,Estimación orientativa; verificar en tienda
+p98,Uvas Pasas,Bolsa 250g,sí,4800,5100,5500,6200,5900,5200,5700,5350,6100,Estimación orientativa; verificar en tienda
+p99,Lavaloza Líquido,Frasco 450g,sí,5500,5800,6300,7100,6800,6000,6500,6150,6950,Estimación orientativa; verificar en tienda
+p100,Yogurt,Botella 1 Litro,sí,8300,8700,9300,10400,9900,9000,9600,9150,10250,Estimación orientativa; verificar en tienda
+p101,Waffles Listos,Paquete x6,sí,6400,6700,7200,8100,7800,6900,7450,7050,7950,Estimación orientativa; verificar en tienda
+p102,Alimento Seco Perros,Bolsa 2 Kilos,sí,18500,19500,21000,23500,22500,20000,21200,20500,23000,Estimación orientativa; verificar en tienda
+p102,Alimento Seco Perros,Bolsa 4 Kilos,no,34900,36900,39900,44000,42500,38000,40500,39000,43500,Estimación orientativa; verificar en tienda
+p103,Alimento Seco Gatos,Bolsa 1 Kilo,sí,11900,12500,13500,14900,14400,12900,13700,13100,14600,Estimación orientativa; verificar en tienda
+p104,Vino Tinto Mesa,Botella 750ml,sí,19900,21500,23000,26000,24900,22000,23500,22500,25500,Estimación orientativa; verificar en tienda
+p105,Pan Tajado Blanco / Integral,Bolsa 450g,sí,5400,5700,6100,6800,6500,5900,6250,5950,6700,Estimación orientativa; verificar en tienda
+p106,Lenteja Seca,Bolsa 500 g,sí,1590,2600,2800,3200,3000,2700,2850,2700,3100,D1: catálogo de despensa
+p106,Lenteja Seca,Bolsa 1 kg,no,3180,5100,5500,6200,5900,5300,5600,5300,6100,Estimación orientativa; verificar en tienda
+p107,Kumis Tradicional,Botella 1 Litro,sí,7900,8300,8900,9900,9500,8600,9100,8750,9750,Estimación orientativa; verificar en tienda
+p108,Mantequilla de Vaca,Bloque 250g,sí,6900,7200,7800,8500,8200,7400,7900,7550,8400,Estimación orientativa; verificar en tienda
+p109,Panela Redonda / Fraccionada,Panela Redonda 1000g,sí,6550,6600,6900,7400,7100,6600,6800,6600,7300,D1: catálogo de despensa
+p109,Panela Redonda / Fraccionada,Panela Fraccionada 1000g,no,6600,6800,7200,7800,7500,6700,6900,6750,7600,Estimación orientativa; verificar en tienda
+p110,Vinagre Blanco Zev,Botella 1000 ml,sí,2850,3100,3400,3900,3700,3200,3500,3300,3800,Estimación orientativa; verificar en tienda
+p111,Salsa de Soya Zev,Frasco 178 ml,sí,1850,2100,2300,2700,2500,2100,2350,2200,2600,Estimación orientativa; verificar en tienda
+p112,Mostaza Zev,Frasco 200g,sí,2550,2800,3000,3500,3300,2900,3100,2950,3400,Estimación orientativa; verificar en tienda
+p113,Aderezo Vinagreta Clásica Zev,Frasco 255g,sí,3400,3700,4000,4600,4400,3800,4100,3900,4500,Estimación orientativa; verificar en tienda
+p114,Café Instantáneo Viejo Molino,Frasco 85g,sí,8700,9100,9800,10900,10400,9400,9900,9550,10700,Estimación orientativa; verificar en tienda
+p115,Alimento Lácteo Rodeo,Bolsa 350g,sí,8900,9400,10100,11200,10700,9700,10250,9850,11000,Estimación orientativa; verificar en tienda
+p116,Harina de Trigo León,Bolsa 1000g,sí,4200,4500,4800,5300,5100,4600,4750,4650,5200,Estimación orientativa; verificar en tienda
+p117,Harina de Maíz Precocida,Bolsa 1000g,sí,3990,4200,4500,4900,4700,4300,4400,4350,4850,Estimación orientativa; verificar en tienda
+p118,Fécula de Maíz Maicena,Caja 200g,sí,3100,3300,3600,4100,3900,3400,3550,3450,4000,Estimación orientativa; verificar en tienda
+p119,Postre Flan en Polvo,Caja,sí,2400,2600,2900,3400,3200,2700,2950,2800,3300,Estimación orientativa; verificar en tienda
+p120,Arequipe / Manjar Blanco,Pote 250g,sí,4900,5200,5600,6300,6100,5400,5750,5500,6200,Estimación orientativa; verificar en tienda
+p121,Atún en Aceite Van Camp's,Lata 160g,sí,4900,6200,6700,7200,6900,6300,6500,6400,7100,Estimación orientativa; verificar en tienda
+p122,Sardinas en Tomate,Lata 425g,sí,5200,5600,6100,6800,6500,5800,6150,5900,6700,Estimación orientativa; verificar en tienda
+p123,Salchichas Sloppy / Zenú,Lata x6 salchichas,sí,5400,5800,6300,7100,6800,6000,6400,6150,7000,Estimación orientativa; verificar en tienda
+p124,Nuggets de Pollo Listos,Bolsa 400g,sí,9900,10500,11200,12800,12200,10800,11500,11000,12500,Estimación orientativa; verificar en tienda
+p125,Queso Crema Alquería,Pote 200g,sí,5900,6200,6700,7500,7200,6400,6800,6550,7400,Estimación orientativa; verificar en tienda
+p126,Queso Doble Crema / Sábana,Bloque 250g,sí,8500,8900,9600,10800,10300,9200,9800,9400,10600,Estimación orientativa; verificar en tienda
+p127,Leche Condensada,Lata 390g,sí,6900,7300,7900,8800,8400,7500,8050,7700,8650,Estimación orientativa; verificar en tienda
+p128,Leche Deslactosada,Bolsa 1 Litro,sí,4500,4800,5100,5700,5500,4900,5200,5000,5600,Estimación orientativa; verificar en tienda
+p129,Papa Criolla Fresca,Kilo,sí,5200,5600,4900,6900,6500,5800,6100,5500,6700,Estimación orientativa; verificar en tienda
+p130,Cebolla Larga / Junca,Manojo / Kilo,sí,3400,3700,3200,4500,4300,3800,4000,3600,4400,Estimación orientativa; verificar en tienda
+p131,Cabeza de Ajo Fresca,Malla 250g,sí,3800,4100,4400,5100,4900,4200,4550,4300,5000,Estimación orientativa; verificar en tienda
+p132,Pepino Cohombro,Kilo,sí,3200,3500,3000,4300,4100,3600,3850,3400,4200,Estimación orientativa; verificar en tienda
+p133,Yuca Fresca Lavada,Kilo,sí,3900,4200,3600,5100,4800,4300,4550,4100,5000,Estimación orientativa; verificar en tienda
+p134,Plátano Verde / Maduro,Kilo,sí,4100,4400,3900,5400,5100,4600,4850,4350,5300,Estimación orientativa; verificar en tienda
+p135,Manzana Roja / Verde,Kilo,sí,9100,9600,9300,11500,11000,9900,10500,9750,11200,Estimación orientativa; verificar en tienda
+p136,Sandía Fresca Trozada,Kilo,sí,2900,3200,2800,3900,3700,3200,3450,3100,3800,Estimación orientativa; verificar en tienda
+p137,Galletas Wafer Noel,Paquete,sí,2300,2500,2800,3200,3000,2600,2850,2700,3100,Estimación orientativa; verificar en tienda
+p138,Chocolates Festival / Tosh,Paquete x4,sí,3500,3800,4100,4700,4500,3900,4200,4000,4600,Estimación orientativa; verificar en tienda
+p139,Bebida Hatsu Té,Botella 400ml,sí,5200,5500,6000,6800,6500,5700,6150,5900,6700,Estimación orientativa; verificar en tienda
+p140,Bebida de Malta Pony,Botella personal,sí,2500,2700,3000,3500,3300,2800,3100,2950,3400,Estimación orientativa; verificar en tienda
+p141,Virutex / Brillo de Olla,Empaque x4,sí,2200,2400,2700,3100,2900,2500,2750,2600,3000,Estimación orientativa; verificar en tienda
+p142,Blanqueador / Cloro Rindex,Frasco 1000ml,sí,3400,3700,4000,4600,4400,3800,4100,3900,4500,Estimación orientativa; verificar en tienda
+p143,Suavizante de Ropa,Frasco 900ml,sí,7500,7900,8500,9600,9200,8100,8650,8300,9400,Estimación orientativa; verificar en tienda
+p144,Jabón de Baño Hinds / Protex,Barra 110g,sí,3100,3300,3600,4200,4000,3400,3700,3500,4100,Estimación orientativa; verificar en tienda
+p145,Shampoo Familiar,Frasco 400ml,sí,12500,13100,14100,15900,15200,13600,14400,13800,15500,Estimación orientativa; verificar en tienda
+p146,Acondicionador Capilar,Frasco 400ml,sí,12900,13500,14500,16200,15600,14000,14800,14200,15900,Estimación orientativa; verificar en tienda
+p147,Pañitos Húmedos Bebé,Paquete x100,sí,7900,8300,9100,10200,9800,8500,9250,8800,10000,Estimación orientativa; verificar en tienda
+p148,Lata Alimento Húmedo Perros,Lata 300g,sí,5400,5800,6300,7100,6800,6000,6400,6150,7000,Estimación orientativa; verificar en tienda
+p149,Aguardiente Antioqueño Tapa Roja,Botella 750ml,sí,52000,54000,57000,62000,60000,55000,58000,56000,61000,Estimación orientativa; verificar en tienda
+p150,Ron Medellín 3 Años,Botella 750ml,sí,56000,58000,61000,67000,65000,59000,62500,60500,66000,Estimación orientativa; verificar en tienda
